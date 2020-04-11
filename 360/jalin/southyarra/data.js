@@ -30,16 +30,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.1056491478528443,
-          "pitch": 0.032210504971313725,
+          "yaw": 0.11728590042210918,
+          "pitch": 0.05844191597361714,
           "rotation": 0,
           "target": "1-hallway1"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.10856113772703857,
-          "pitch": -0.17108212770042108,
+          "yaw": 0.10564915522057383,
+          "pitch": -0.1482944764664076,
           "title": "Unit 519",
           "text": "5th Floor<div>Corner Apartment</div>"
         }
@@ -941,7 +941,14 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 0.5893862253781812,
+          "pitch": 0.1816267741311357,
+          "rotation": 1.5707963267948966,
+          "target": "12-bedroom21"
+        }
+      ],
       "infoHotspots": []
     },
     {
@@ -1016,7 +1023,7 @@ var APP_DATA = {
   "name": "South Yarra",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": false,
+    "autorotateEnabled": true,
     "fullscreenButton": false,
     "viewControlButtons": false
   }
