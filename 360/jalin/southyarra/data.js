@@ -840,7 +840,20 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": -0.7690294659803651,
+          "pitch": 0.05175607376794389,
+          "rotation": 0,
+          "target": "12-bedroom21"
+        },
+        {
+          "yaw": -0.7667197848291707,
+          "pitch": 0.21878643893027672,
+          "rotation": 4.71238898038469,
+          "target": "14-bathroom21"
+        }
+      ],
       "infoHotspots": []
     },
     {
@@ -1003,7 +1016,7 @@ var APP_DATA = {
   "name": "South Yarra",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
+    "autorotateEnabled": false,
     "fullscreenButton": false,
     "viewControlButtons": false
   }
