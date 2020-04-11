@@ -187,8 +187,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.47266969681914617,
-          "pitch": -0.04302259600530256,
+          "yaw": -0.009683013402405294,
+          "pitch": 0.3070656954477613,
           "title": "Dinning",
           "text": "6 Seats Dinning Area<div>600m Gas Cooker</div><div>Plenty of Kitchen Storage</div>"
         }
