@@ -578,6 +578,12 @@ var APP_DATA = {
           "pitch": 0.14887817124501268,
           "rotation": 0,
           "target": "16-corner3"
+        },
+        {
+          "yaw": 0.9520964044122167,
+          "pitch": 0.6138075768345885,
+          "rotation": 0,
+          "target": "2-hallway2"
         }
       ],
       "infoHotspots": []
@@ -736,8 +742,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.12259293598857823,
-          "pitch": 0.0019907520689343983,
+          "yaw": -0.1139524626179309,
+          "pitch": -0.016335990578191684,
           "title": "Living Area",
           "text": "Plenty of Natural Light<div>Spacious Common Area</div>"
         }
