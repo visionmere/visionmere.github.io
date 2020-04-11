@@ -30,16 +30,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.15994500183748883,
-          "pitch": 0.06207295948035174,
+          "yaw": 0.1056491478528443,
+          "pitch": 0.032210504971313725,
           "rotation": 0,
           "target": "1-hallway1"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.5113424023485251,
-          "pitch": -0.16659691539099342,
+          "yaw": 0.10856113772703857,
+          "pitch": -0.17108212770042108,
           "title": "Unit 519",
           "text": "5th Floor<div>Corner Apartment</div>"
         }
@@ -742,8 +742,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.1139524626179309,
-          "pitch": -0.016335990578191684,
+          "yaw": -0.16019446641671564,
+          "pitch": -0.019139163302394735,
           "title": "Living Area",
           "text": "Plenty of Natural Light<div>Spacious Common Area</div>"
         }
