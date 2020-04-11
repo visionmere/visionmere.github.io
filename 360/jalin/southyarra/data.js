@@ -30,18 +30,18 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.12019065783072236,
-          "pitch": 0.07007097747075264,
+          "yaw": 0.15994500183748883,
+          "pitch": 0.06207295948035174,
           "rotation": 0,
           "target": "1-hallway1"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.4234266422651096,
-          "pitch": -0.15189559718615797,
+          "yaw": 0.5113424023485251,
+          "pitch": -0.16659691539099342,
           "title": "Unit 519",
-          "text": "<div>5th Floor</div>Corner Apartment"
+          "text": "5th Floor<div>Corner Apartment</div>"
         }
       ]
     },
@@ -87,16 +87,10 @@ var APP_DATA = {
           "target": "10-corner2"
         },
         {
-          "yaw": -0.03307323631415393,
-          "pitch": 0.6953054497188216,
+          "yaw": -0.09280716199454098,
+          "pitch": 0.5157588351184828,
           "rotation": 0,
           "target": "2-hallway2"
-        },
-        {
-          "yaw": -1.4057639256858536,
-          "pitch": -0.03215013256755839,
-          "rotation": 0,
-          "target": "0-entrance"
         },
         {
           "yaw": -0.32008160792915064,
@@ -171,12 +165,24 @@ var APP_DATA = {
           "pitch": 0.8818444300161836,
           "rotation": 0,
           "target": "10-corner2"
+        },
+        {
+          "yaw": 2.7379177464943583,
+          "pitch": 0.2097395434428755,
+          "rotation": 4.71238898038469,
+          "target": "3-bathroom11"
+        },
+        {
+          "yaw": -3.0667359845993865,
+          "pitch": 0.5529787367730687,
+          "rotation": 0,
+          "target": "1-hallway1"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.5302016338574802,
-          "pitch": 0.022867150655898172,
+          "yaw": 0.47266969681914617,
+          "pitch": -0.04302259600530256,
           "title": "Dinning",
           "text": "6 Seats Dinning Area<div>600m Gas Cooker</div><div>Plenty of Kitchen Storage</div>"
         }
@@ -216,12 +222,6 @@ var APP_DATA = {
           "pitch": 0.455450873423052,
           "rotation": 6.283185307179586,
           "target": "4-bathroom12"
-        },
-        {
-          "yaw": 1.9583918816195736,
-          "pitch": 0.14802451374174197,
-          "rotation": 0,
-          "target": "0-entrance"
         },
         {
           "yaw": 3.0112299635047943,
@@ -349,12 +349,6 @@ var APP_DATA = {
           "target": "8-bedroom14"
         },
         {
-          "yaw": 1.593220947684288,
-          "pitch": 0.08576397005296421,
-          "rotation": 1.5707963267948966,
-          "target": "0-entrance"
-        },
-        {
           "yaw": 2.160499900832324,
           "pitch": 0.38489811622221737,
           "rotation": 0.7853981633974483,
@@ -365,6 +359,12 @@ var APP_DATA = {
           "pitch": 0.8751565598309092,
           "rotation": 0,
           "target": "10-corner2"
+        },
+        {
+          "yaw": 1.3527886360819483,
+          "pitch": 0.10400361286033899,
+          "rotation": 4.71238898038469,
+          "target": "3-bathroom11"
         }
       ],
       "infoHotspots": [
@@ -640,12 +640,6 @@ var APP_DATA = {
           "pitch": 0.4707386994674696,
           "rotation": 0,
           "target": "9-corner1"
-        },
-        {
-          "yaw": -1.9789186294290317,
-          "pitch": 0.03178363105152471,
-          "rotation": 0,
-          "target": "0-entrance"
         },
         {
           "yaw": -2.374009826331541,
