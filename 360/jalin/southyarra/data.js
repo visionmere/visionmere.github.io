@@ -161,8 +161,8 @@ var APP_DATA = {
           "target": "5-bedroom11"
         },
         {
-          "yaw": -1.1772238313491865,
-          "pitch": 0.46011291094421125,
+          "yaw": -1.4793732675741555,
+          "pitch": 0.5459978396943868,
           "rotation": 0,
           "target": "9-corner1"
         },
@@ -173,7 +173,14 @@ var APP_DATA = {
           "target": "10-corner2"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 0.5302016338574802,
+          "pitch": 0.022867150655898172,
+          "title": "Dinning",
+          "text": "6 Seats Dinning Area<div>600m Gas Cooker</div><div>Plenty of Kitchen Storage</div>"
+        }
+      ]
     },
     {
       "id": "3-bathroom11",
@@ -229,8 +236,8 @@ var APP_DATA = {
           "target": "2-hallway2"
         },
         {
-          "yaw": -2.008366466095236,
-          "pitch": 0.5504636510172976,
+          "yaw": -1.9810748525779367,
+          "pitch": 0.5651123182243261,
           "rotation": 0,
           "target": "10-corner2"
         },
@@ -245,9 +252,22 @@ var APP_DATA = {
           "pitch": 0.12464802022945953,
           "rotation": 0,
           "target": "16-corner3"
+        },
+        {
+          "yaw": -2.0951216436380555,
+          "pitch": 0.20599604735620503,
+          "rotation": 1.5707963267948966,
+          "target": "12-bedroom21"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -0.21920643574636678,
+          "pitch": -0.07093618386346634,
+          "title": "Common Bathroom",
+          "text": "Decent Size Bathroom<div>Up to Ceiling Tiles</div>"
+        }
+      ]
     },
     {
       "id": "4-bathroom12",
@@ -325,7 +345,7 @@ var APP_DATA = {
         {
           "yaw": 0.19485550744423286,
           "pitch": 0.31302932198677524,
-          "rotation": 3.9269908169872414,
+          "rotation": 6.283185307179586,
           "target": "8-bedroom14"
         },
         {
@@ -347,7 +367,14 @@ var APP_DATA = {
           "target": "10-corner2"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -0.002844807258863824,
+          "pitch": -0.030493113782833703,
+          "title": "Second Bedroom",
+          "text": "Massive Wardrobe Storage"
+        }
+      ]
     },
     {
       "id": "6-bedroom12",
@@ -707,7 +734,14 @@ var APP_DATA = {
           "target": "5-bedroom11"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -0.12259293598857823,
+          "pitch": 0.0019907520689343983,
+          "title": "Living Area",
+          "text": "Plenty of Natural Light<div>Spacious Common Area</div>"
+        }
+      ]
     },
     {
       "id": "12-bedroom21",
@@ -763,7 +797,14 @@ var APP_DATA = {
           "target": "9-corner1"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 0.14788433354033614,
+          "pitch": -0.06345741553868045,
+          "title": "Master Bedroom with Ensuite",
+          "text": "Queen /King Size Bed<div>Built in Wardrobe</div>"
+        }
+      ]
     },
     {
       "id": "13-bedroom22",
@@ -844,7 +885,14 @@ var APP_DATA = {
           "target": "16-corner3"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -0.6081463944006202,
+          "pitch": -0.0921998400433175,
+          "title": "Ensuite",
+          "text": "Decent Size Bathroom<div>Up to Ceiling Tiles</div>"
+        }
+      ]
     },
     {
       "id": "15-bathroom22",
@@ -949,7 +997,7 @@ var APP_DATA = {
   "name": "South Yarra",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": false,
+    "autorotateEnabled": true,
     "fullscreenButton": false,
     "viewControlButtons": false
   }
