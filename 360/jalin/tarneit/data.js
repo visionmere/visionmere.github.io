@@ -93,6 +93,12 @@ var APP_DATA = {
           "target": "3-wir"
         },
         {
+          "yaw": 2.1812995481340245,
+          "pitch": 0.32469840784921367,
+          "rotation": 0,
+          "target": "0-entrance"
+        },
+        {
           "yaw": 0.0881411138994892,
           "pitch": 0.174267837423292,
           "rotation": 0,
