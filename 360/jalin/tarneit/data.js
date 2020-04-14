@@ -337,6 +337,18 @@ var APP_DATA = {
           "pitch": 0.2791646883784562,
           "rotation": 0,
           "target": "7-bedroom22"
+        },
+        {
+          "yaw": -1.4228114865715682,
+          "pitch": 0.15989434315055462,
+          "rotation": 6.283185307179586,
+          "target": "17-living--dining1"
+        },
+        {
+          "yaw": 1.965757180052309,
+          "pitch": 0.5988352416294269,
+          "rotation": 6.283185307179586,
+          "target": "0-entrance"
         }
       ],
       "infoHotspots": [
@@ -546,6 +558,18 @@ var APP_DATA = {
           "pitch": 0.24987699301865085,
           "rotation": 0,
           "target": "11-bedroom32"
+        },
+        {
+          "yaw": -2.470528869476693,
+          "pitch": 0.19955231612303237,
+          "rotation": 0,
+          "target": "14-bedroom41"
+        },
+        {
+          "yaw": -2.786285787385898,
+          "pitch": 0.19075722021820773,
+          "rotation": 4.71238898038469,
+          "target": "19-living--dining3"
         }
       ],
       "infoHotspots": [
@@ -691,6 +715,12 @@ var APP_DATA = {
           "pitch": 0.39245949931871493,
           "rotation": 9.42477796076938,
           "target": "15-bedroom42"
+        },
+        {
+          "yaw": -2.725895017739308,
+          "pitch": 0.3125590971613619,
+          "rotation": 4.71238898038469,
+          "target": "16-hallway"
         }
       ],
       "infoHotspots": [
@@ -764,9 +794,9 @@ var APP_DATA = {
       ],
       "faceSize": 1728,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -0.06055223935490517,
+        "pitch": 0.02059002671275323,
+        "fov": 1.2189295971039993
       },
       "linkHotspots": [
         {
@@ -988,8 +1018,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.7650529166803732,
-          "pitch": 0.18749776816299324,
+          "yaw": 2.7902316293254827,
+          "pitch": 0.16131229608883757,
           "rotation": 0,
           "target": "9-lounge2"
         },
