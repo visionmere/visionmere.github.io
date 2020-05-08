@@ -559,7 +559,7 @@ var APP_DATA = {
   "name": "14 Belleville Cl, Burnside Heights",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": false,
+    "autorotateEnabled": true,
     "fullscreenButton": false,
     "viewControlButtons": false
   }
