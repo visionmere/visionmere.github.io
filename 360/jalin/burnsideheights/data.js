@@ -24,22 +24,22 @@ var APP_DATA = {
       ],
       "faceSize": 1728,
       "initialViewParameters": {
-        "yaw": -0.03356402407681536,
-        "pitch": 0.02047134637140502,
-        "fov": 1.3715802068843215
+        "yaw": -0.020138414446089214,
+        "pitch": 0.018962922714536035,
+        "fov": 1.3046490827601978
       },
       "linkHotspots": [
         {
-          "yaw": -0.059584516102397345,
-          "pitch": 0.06483991396221,
+          "yaw": -0.008882078523772208,
+          "pitch": 0,
           "rotation": 0,
           "target": "1-entrance-hallway"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 1.3255655618009143,
-          "pitch": -0.0162837408330212,
+          "yaw": 1.1509197892636145,
+          "pitch": 0.010963719636992053,
           "title": "Private Entrance",
           "text": "Leafy Surrounds"
         }
@@ -85,12 +85,6 @@ var APP_DATA = {
           "pitch": 0.28791230686537084,
           "rotation": 0,
           "target": "2-master"
-        },
-        {
-          "yaw": -2.084705475451802,
-          "pitch": 0.34277700720383564,
-          "rotation": 0,
-          "target": "0-entrance"
         },
         {
           "yaw": -1.0081686846151285,
@@ -263,12 +257,6 @@ var APP_DATA = {
         "fov": 1.3715802068843215
       },
       "linkHotspots": [
-        {
-          "yaw": 0.5998566677237402,
-          "pitch": 0.19592293350713597,
-          "rotation": 0,
-          "target": "0-entrance"
-        },
         {
           "yaw": 1.38960310411343,
           "pitch": 0.3729231519426417,
